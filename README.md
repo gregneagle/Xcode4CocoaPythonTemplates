@@ -19,5 +19,6 @@ The Project templates should be available when creating a new project, also unde
 **Additional references**
 
 http://blog.boreal-kiss.net/2011/03/11/a-minimal-project-template-for-xcode-4/
+
 http://red-glasses.com/index.php/tutorials/making-custom-templates-for-xcode-4-march-2011/
 
