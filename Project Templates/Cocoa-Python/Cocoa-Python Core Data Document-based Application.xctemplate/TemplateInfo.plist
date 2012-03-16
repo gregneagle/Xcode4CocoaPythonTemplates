@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+	<key>Identifier</key>
+	<string>com.googlecode.gneagle.cocoaPythonCoreDataDocumentBasedApplication</string>
+	<key>Concrete</key>
+	<true/>
+	<key>Description</key>
+	<string>This project builds a Core Data Document-based application written in a mix of Python and Objective-C.</string>
+	<key>SortOrder</key>
+	<integer>1</integer>
+	<key>Ancestors</key>
+	<array>
+		<string>com.googlecode.gneagle.cocoaPythonApplicationBase</string>
+	</array>
+	<key>Definitions</key>
+	<dict>
+	    <key>___PACKAGENAME___-Info.plist:DocumentTypes</key>
+		<string>&lt;key&gt;CFBundleDocumentTypes&lt;/key&gt;
+&lt;array&gt;
+&lt;dict&gt;
+&lt;key&gt;CFBundleTypeExtensions&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;binary&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeMIMETypes&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;application/octet-stream&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeName&lt;/key&gt;
+&lt;string&gt;Binary&lt;/string&gt;
+&lt;key&gt;CFBundleTypeRole&lt;/key&gt;
+&lt;string&gt;Editor&lt;/string&gt;
+&lt;key&gt;LSTypeIsPackage&lt;/key&gt;
+&lt;false/&gt;
+&lt;key&gt;NSDocumentClass&lt;/key&gt;
+&lt;string&gt;___VARIABLE_classPrefix:identifier___Document&lt;/string&gt;
+&lt;key&gt;NSPersistentStoreTypeKey&lt;/key&gt;
+&lt;string&gt;Binary&lt;/string&gt;
+&lt;/dict&gt;
+&lt;dict&gt;
+&lt;key&gt;CFBundleTypeExtensions&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;sqlite&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeMIMETypes&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;application/octet-stream&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeName&lt;/key&gt;
+&lt;string&gt;SQLite&lt;/string&gt;
+&lt;key&gt;CFBundleTypeRole&lt;/key&gt;
+&lt;string&gt;Editor&lt;/string&gt;
+&lt;key&gt;LSTypeIsPackage&lt;/key&gt;
+&lt;false/&gt;
+&lt;key&gt;NSDocumentClass&lt;/key&gt;
+&lt;string&gt;___VARIABLE_classPrefix:identifier___Document&lt;/string&gt;
+&lt;key&gt;NSPersistentStoreTypeKey&lt;/key&gt;
+&lt;string&gt;SQLite&lt;/string&gt;
+&lt;/dict&gt;
+&lt;dict&gt;
+&lt;key&gt;CFBundleTypeExtensions&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;xml&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeIconFile&lt;/key&gt;
+&lt;string&gt;&lt;/string&gt;
+&lt;key&gt;CFBundleTypeMIMETypes&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;text/xml&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeName&lt;/key&gt;
+&lt;string&gt;XML&lt;/string&gt;
+&lt;key&gt;CFBundleTypeOSTypes&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;????&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleTypeRole&lt;/key&gt;
+&lt;string&gt;Editor&lt;/string&gt;
+&lt;key&gt;LSTypeIsPackage&lt;/key&gt;
+&lt;false/&gt;
+&lt;key&gt;NSDocumentClass&lt;/key&gt;
+&lt;string&gt;___VARIABLE_classPrefix:identifier___Document&lt;/string&gt;
+&lt;key&gt;NSPersistentStoreTypeKey&lt;/key&gt;
+&lt;string&gt;XML&lt;/string&gt;
+&lt;/dict&gt;
+&lt;/array&gt;
+</string>
+	    <key>___VARIABLE_classPrefix___Document.xcdatamodeld</key>
+		<dict>
+			<key>Path</key>
+			<string>Document.xcdatamodeld</string>
+		</dict>
+	    <key>main.py</key>
+	    <dict>
+	        <key>Path</key>
+	        <string>main.py</string>
+	    </dict>
+	    <key>___VARIABLE_classPrefix:identifier___Document.py</key>
+	    <dict>
+	        <key>Path</key>
+	        <string>CocoaAppDocument.py</string>
+	    </dict>
+		<key>en.lproj/MainMenu.xib</key>
+		<dict>
+			<key>Path</key>
+			<string>MainMenuApp.xib</string>
+		</dict>
+		<key>en.lproj/___VARIABLE_classPrefix:identifier___Document.xib</key>
+		<dict>
+			<key>Path</key>
+			<string>CocoaAppDocument.xib</string>
+		</dict>
+	</dict>
+	<key>Nodes</key>
+	<array>
+	    <string>___PACKAGENAME___-Info.plist:DocumentTypes</string>
+	    <string>___VARIABLE_classPrefix___Document.xcdatamodeld</string>
+	    <string>main.py</string>
+	    <string>___VARIABLE_classPrefix:identifier___Document.py</string>
+	    <string>en.lproj/MainMenu.xib</string>
+	    <string>en.lproj/___VARIABLE_classPrefix:identifier___Document.xib</string>
+	</array>
+	
+</dict>
+</plist>

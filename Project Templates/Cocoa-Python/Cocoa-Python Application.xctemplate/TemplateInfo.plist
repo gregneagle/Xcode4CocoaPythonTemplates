@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+	<key>Identifier</key>
+	<string>com.googlecode.gneagle.cocoaPythonApplication</string>
+	<key>Concrete</key>
+	<true/>
+	<key>Description</key>
+	<string>This project builds a Cocoa-based application written in a mix of Python and Objective-C.</string>
+	<key>SortOrder</key>
+	<integer>1</integer>
+	<key>Ancestors</key>
+	<array>
+		<string>com.googlecode.gneagle.cocoaPythonApplicationBase</string>
+	</array>
+	<key>Definitions</key>
+	<dict>
+	    <key>main.py</key>
+	    <dict>
+	        <key>Path</key>
+	        <string>main.py</string>
+	    </dict>
+	    <key>___VARIABLE_classPrefix:identifier___AppDelegate.py</key>
+	    <dict>
+	        <key>Path</key>
+	        <string>AppDelegate.py</string>
+	    </dict>
+		<key>en.lproj/MainMenu.xib</key>
+		<dict>
+			<key>Path</key>
+			<string>MainMenuApp.xib</string>
+		</dict>
+	</dict>
+	<key>Nodes</key>
+	<array>
+	    <string>main.py</string>
+	    <string>___VARIABLE_classPrefix:identifier___AppDelegate.py</string>
+	    <string>en.lproj/MainMenu.xib</string>
+	</array>
+	
+</dict>
+</plist>
