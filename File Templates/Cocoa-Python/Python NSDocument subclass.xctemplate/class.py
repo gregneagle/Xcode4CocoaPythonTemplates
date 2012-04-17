@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 #
 #  ___FILENAME___
 #  ___PROJECTNAME___
