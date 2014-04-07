@@ -1,6 +1,6 @@
 **Xcode 4 Cocoa-Python Templates**
 
-This is a set of File templates and Project templates for use with Xcode 4. These have been tested with Xcode 4.3 on Lion.
+This is a set of File templates and Project templates for use with Xcode 4+. These have been tested with Xcode 4.3 on Lion and Xcode 5.1 on Mavericks.
 
 Using the Xcode 3 templates here: http://svn.red-bean.com/pyobjc/trunk/pyobjc/pyobjc-xcode/ as a starting point, and also using the existing Xcode 4 templates as a reference, I ported the Xcode 3 templates to the Xcode 4 format.
 
