@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 #
 #  ___PROJECTNAMEASIDENTIFIER___AppDelegate.py
 #  ___PROJECTNAME___

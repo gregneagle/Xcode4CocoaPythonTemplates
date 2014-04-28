@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 #
 #  main.py
 #  ___PROJECTNAME___
@@ -7,7 +7,7 @@
 #  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 #
 
-#import modules required by application
+# import modules required by application
 import objc
 import Foundation
 import AppKit

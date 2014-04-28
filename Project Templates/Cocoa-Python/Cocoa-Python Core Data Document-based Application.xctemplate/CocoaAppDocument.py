@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 #
 #  ___PROJECTNAMEASIDENTIFIER___Document.py
 #  ___PROJECTNAME___
